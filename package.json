@@ -23,6 +23,6 @@
 		"eslint-plugin-jsx-a11y": "^6.1.2",
 		"eslint-plugin-react": "^7.12.4",
 		"nice-color-palettes": "^2.0.0",
-		"three": "^0.100.0"
+		"three": "^0.125.0"
 	}
 }
